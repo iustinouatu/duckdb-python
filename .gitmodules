@@ -1,6 +1,6 @@
 [submodule "external/duckdb"]
 	path = external/duckdb
-	url = https://github.com/duckdb/duckdb.git
-	branch = main
+	url = https://github.com/iustinouatu/duckdb.git
+	branch = fix/28439_unknown_extension_footers
 [submodule]
 	recurse = true
