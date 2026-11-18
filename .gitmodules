@@ -1,6 +1,6 @@
 [submodule "external/duckdb"]
 	path = external/duckdb
 	url = https://github.com/iustinouatu/duckdb.git
-	branch = fix/28848_printf_format_drops_dot_for_mod_x_smaller_than_0point1
+	branch = fix/28977_input_cut_inside_multibyte_char_produces_invalid_UTF8_errmsg
 [submodule]
 	recurse = true
